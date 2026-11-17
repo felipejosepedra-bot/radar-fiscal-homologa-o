@@ -1,4 +1,4 @@
-name: Publicar Radar Fiscal
+name: Publicar Radar Fiscal (Homologação)
 
 on:
   push:
@@ -9,6 +9,9 @@ on:
       - 'relatorios.html'
       - 'relatorios.json'
       - '.github/workflows/publicar.yml'
+      - 'scripts/sincronizar_homologacao.py'
+  schedule:
+    - cron: '31 * * * *' # Atualização aproximadamente de hora em hora (UTC)
   workflow_dispatch:
     inputs:
       novos_registros:
@@ -22,7 +25,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: central-radar-pages
+  group: central-radar-homologacao-pages
   cancel-in-progress: false
 
 jobs:
@@ -38,35 +41,41 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Sincronizar dados publicos da producao
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.novos_registros == '')
+        id: sincronizacao
+        run: python scripts/sincronizar_homologacao.py --github-output "$GITHUB_OUTPUT"
       - name: Analisar novas alterações
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && inputs.novos_registros != ''
         id: verificar
         env:
           NOVOS_REGISTROS: ${{ inputs.novos_registros }}
         run: python scripts/atualizar_base.py --github-output "$GITHUB_OUTPUT"
       - name: Gravar somente quando mudar
-        if: github.event_name == 'workflow_dispatch' && steps.verificar.outputs.changed == 'true'
+        if: steps.sincronizacao.outputs.changed == 'true' || steps.verificar.outputs.changed == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add atualizacoes.json
-          git commit -m 'Incorporar alterações ao Radar Fiscal'
-          git push origin HEAD:main
+          git add atualizacoes.json relatorios.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Sincronizar acervo do Radar Fiscal na homologacao'
+            git push origin HEAD:main
+          fi
       - name: Configurar GitHub Pages
-        if: github.event_name == 'push' || steps.verificar.outputs.changed == 'true'
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch' || steps.sincronizacao.outputs.changed == 'true'
         uses: actions/configure-pages@v5
       - name: Separar arquivos públicos
-        if: github.event_name == 'push' || steps.verificar.outputs.changed == 'true'
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch' || steps.sincronizacao.outputs.changed == 'true'
         run: |
           mkdir -p site_publico
           cp index.html atualizacoes.json relatorios.html relatorios.json site_publico/
           touch site_publico/.nojekyll
       - name: Preparar artefato
-        if: github.event_name == 'push' || steps.verificar.outputs.changed == 'true'
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch' || steps.sincronizacao.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site_publico
       - name: Publicar no Pages
-        if: github.event_name == 'push' || steps.verificar.outputs.changed == 'true'
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch' || steps.sincronizacao.outputs.changed == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
