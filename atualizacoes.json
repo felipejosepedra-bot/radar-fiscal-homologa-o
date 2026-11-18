@@ -1,6 +1,41 @@
 {
   "atualizacoes": [
     {
+      "id": "pb-portaria-00235-2026-ufr-dezembro",
+      "titulo": "Paraíba atualiza UFR/PB para R$ 74,61 a partir de dezembro de 2026",
+      "resumo": "Portaria SEFAZ/PB 00235/2026, publicada em 18/11/2026, atualiza a UFR/PB de R$ 74,50 para R$ 74,61, com efeitos a partir de 01/12/2026. A alteração afeta valores legais referenciados em UFR, conforme hipótese aplicável, sem alterar diretamente alíquotas de ICMS.",
+      "publicacao": "2026-11-18",
+      "vigencia": "2026-12-01",
+      "uf": [
+        "PB"
+      ],
+      "tema": [
+        "ICMS",
+        "UFR",
+        "Taxas e penalidades",
+        "Obrigações acessórias"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "LE Logística"
+      ],
+      "tipo": "Portaria estadual — atualização de índice com vigência futura",
+      "norma": "Portaria nº 00235/2026/SEFAZ-PB; art. 822 do RICMS/PB (Decreto 18.930/1997)",
+      "antes": "UFR/PB fixada em R$ 74,50.",
+      "depois": "UFR/PB fixada em R$ 74,61 a partir de 01/12/2026; aumento nominal de R$ 0,11 (aproximadamente 0,148%).",
+      "providencias": "Revisar tabelas de UFR/PB utilizadas em cálculos de taxas, multas, limites e outros valores legalmente indexados, para competências ou fatos geradores a partir de 01/12/2026; conferir sistemas de apuração, arrecadação e controles de conformidade. Para transportadoras, conferir especialmente eventuais valores em UFR associados a procedimentos e penalidades de transporte na PB.",
+      "fontes": [
+        {
+          "titulo": "SEFAZ-PB — Portaria 00235/2026",
+          "url": "https://portal.sefaz.pb.gov.br/legislacao/43-portarias/400-portarias-2026/18152-portaria-no-00235-2026-sefaz"
+        }
+      ],
+      "observacoes": "Não há alteração direta de alíquotas de ICMS, regras de CT-e/MDF-e ou benefício fiscal de medicamentos. Impacto depende da existência de operações ou obrigações indexadas em UFR/PB.",
+      "radares": [
+        "Fiscal Estadual"
+      ]
+    },
+    {
       "id": "2026-dfe-aviso-1311-postergacao-1412",
       "titulo": "DF-e: produção de NTs de NF-e e CT-e é adiada de 16/11 para 14/12/2026",
       "resumo": "Aviso oficial de 13/11/2026 postergou para 14/12/2026 a implantação em produção de NTs da Reforma Tributária, incluindo valor líquido da NF-e/CT-e, vinculação de pagamento e regras do Simples Nacional. As NTs 2025.002 e 2026.007 de NF-e não foram abrangidas pelo adiamento.",

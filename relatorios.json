@@ -19,6 +19,17 @@
   },
   "relatorios": [
     {
+      "id": "radar-fiscal-estadual-2026-11-18-1402",
+      "radar": "Radar Fiscal Estadual",
+      "data": "2026-11-18",
+      "titulo": "Radar Fiscal Estadual — 18/11/2026",
+      "resumo": "Paraíba: Portaria SEFAZ nº 00235/2026 publicada em 18/11 altera a UFR/PB de R$ 74,50 para R$ 74,61 com efeitos em 01/12. Sem outras mudanças materiais confirmadas no intervalo pesquisado para CE, BA, PA e PE.",
+      "conteudo": "Radar Fiscal Estadual — 18/11/2026\n\nPARAÍBA — Portaria 00235/2026/SEFAZ, publicada no DO-e/SEFAZ em 18/11/2026. Órgão: Secretaria de Estado da Fazenda da Paraíba. Base: art. 822 do RICMS/PB, Decreto 18.930/1997. Situação: norma publicada, com produção de efeitos futura em 01/12/2026.\n\nANTES: UFR/PB R$ 74,50.\nDEPOIS: UFR/PB R$ 74,61. Diferença R$ 0,11 (0,14765%).\n\nONCOEXO: impacto MÉDIO condicionado a taxas, multas, limites e outras obrigações legalmente referenciadas em UFR/PB; conferir tabelas e parametrizações para fatos geradores de dezembro. Não altera diretamente ICMS-ST, NCM/CEST ou benefícios de medicamentos.\n\nLE LOGÍSTICA: impacto MÉDIO condicionado a procedimentos, taxas e penalidades de transporte referenciados em UFR/PB. Conferir parametrização e controles administrativos. Não houve mudança específica de CT-e, MDF-e, contingência ou EFD Bloco D.\n\nRisco: recolhimento ou cálculo insuficiente de valores indexados, quando aplicáveis. Providência: atualizar referência da UFR para 01/12 e testar cálculos, sem mudar alíquotas de ICMS.\n\nFonte oficial: https://portal.sefaz.pb.gov.br/legislacao/43-portarias/400-portarias-2026/18152-portaria-no-00235-2026-sefaz\n\nA Portaria 00234/2026, também publicada em 18/11, altera apenas a organização disciplinar interna da SEFAZ-PB, sem impacto material nos perfis monitorados. Nos índices e notícias oficiais consultados de CE, BA, PA e PE não foi confirmada outra mudança material desde o relatório anterior. A leitura integral de todos os Diários Oficiais não pôde ser certificada.",
+      "origem": "Execução do agendamento",
+      "completude": "Relatório completo recuperado",
+      "observacoes": "Relatório original de monitoramento; consultar a legislação vigente na fonte oficial."
+    },
+    {
       "id": "radar-fiscal-estadual-2026-11-17-1341",
       "radar": "Radar Fiscal Estadual",
       "data": "2026-11-17",
