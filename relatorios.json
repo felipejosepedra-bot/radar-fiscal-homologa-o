@@ -19,6 +19,17 @@
   },
   "relatorios": [
     {
+      "id": "radar-le-logistica-norte-nordeste-2026-11-19-0755",
+      "radar": "Radar LE Logística Norte/Nordeste",
+      "data": "2026-11-19",
+      "titulo": "Radar LE Logística Norte/Nordeste — 19/11/2026",
+      "resumo": "Ato Conjunto RFB/CGIBS nº 7/2026 alterou para 01/03/2027 o prazo de documentos com IBS/CBS para optantes do Simples Nacional, incluindo CT-e e MDF-e; aviso técnico de 13/11 adiou implantação da NT CT-e 2026.004 v1.01 para 14/12/2026. Aplicação à LE Logística depende do regime tributário e do emissor.",
+      "conteudo": "Radar LE Logística Norte/Nordeste — 19/11/2026\nPeríodo de referência: 12 a 19/11/2026.\n\n1) BRASIL — Ato Conjunto RFB/CGIBS nº 7, de 11/11/2026, publicado em 13/11/2026. Altera o Ato nº 4/2026. Antes: optantes do Simples Nacional tinham previsão de obrigatoriedade de documentos fiscais eletrônicos com IBS/CBS a partir de 01/01/2027. Depois: CT-e e MDF-e abrangidos pelo cronograma passam para 01/03/2027 para optantes do Simples Nacional. Para empresas do regime regular, o ato não adia os prazos já vigentes desses documentos. Impacto LE Logística: condicionado ao regime tributário da empresa e dos parceiros emissores; não suspende emissão normal de CT-e/MDF-e nem altera o ICMS do frete. Providências: confirmar regime tributário e atualizar matriz de implantação de IBS/CBS e testes do emissor até 01/03/2027 quando aplicável. Fonte oficial: https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf\n\n2) BRASIL — Aviso técnico Portal CT-e de 13/11/2026. Antes: implantação em produção da CT-e NT 2026.004 v1.01 prevista para 16/11/2026. Depois: implantação postergada para 14/12/2026. Impacto LE Logística: reprogramar testes e implantação do emissor, sem confundir cronograma técnico com vigência normativa. Providências: validar versão do software e testes antes de 14/12/2026. Fonte oficial: https://www.cte.fazenda.gov.br/portal/informe.aspx\n\nANTT: anúncio de 17/11 sobre futura revisão dos pisos mínimos não é norma em vigor; sem nova obrigação confirmada. Não foi possível conferir exaustivamente todos os Diários Oficiais estaduais; ausência de outros achados não certifica inexistência de atos.",
+      "origem": "Execução do agendamento",
+      "completude": "Relatório completo recuperado",
+      "observacoes": "Relatório original de monitoramento; consultar a legislação vigente na fonte oficial."
+    },
+    {
       "id": "radar-fiscal-estadual-2026-11-18-1402",
       "radar": "Radar Fiscal Estadual",
       "data": "2026-11-18",

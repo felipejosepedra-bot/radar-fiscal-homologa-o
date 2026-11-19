@@ -72,7 +72,8 @@
       ],
       "observacoes": "O adiamento é técnico e não posterga, por si só, a vigência legal geral do IBS/CBS. A implantação deve ser acompanhada por versão de NT e regra de validação.",
       "radares": [
-        "Fiscal Estadual"
+        "Fiscal Estadual",
+        "LE Logística"
       ]
     },
     {
@@ -247,7 +248,8 @@
       ],
       "observacoes": "O ato altera cronogramas de documentos específicos; não representa postergação geral da CBS ou do IBS.",
       "radares": [
-        "Relatório Farmacêutico"
+        "Relatório Farmacêutico",
+        "LE Logística"
       ]
     },
     {
