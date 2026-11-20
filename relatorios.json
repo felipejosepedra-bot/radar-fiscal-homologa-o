@@ -19,6 +19,17 @@
   },
   "relatorios": [
     {
+      "id": "radar-fiscal-estadual-2026-11-20-1400",
+      "radar": "Radar Fiscal Estadual",
+      "data": "2026-11-20",
+      "titulo": "Radar Fiscal Estadual — 20/11/2026",
+      "resumo": "Decreto PB 49.129/2026 internaliza Ajuste SINIEF 37/26 para CT-e OS e tratamento de rejeição após contingência, com efeitos retroativos. Decreto 49.128/2026 atualiza referência ao MOC da NFC-e; demais estados sem novidade material confirmada.",
+      "conteudo": "RADAR FISCAL ESTADUAL — 20/11/2026. Intervalo: desde a última verificação de 19/11 até 20/11 às 14h (Brasília).\n\nPARAÍBA — DECRETO Nº 49.129, DE 18/11/2026, publicado no DOE de 19/11/2026. Situação: publicado e vigente, com efeitos retroativos. Órgão: Governo do Estado da Paraíba. Base legal: Ajuste SINIEF 37/26, Ajuste SINIEF 24/26 e arts. 202-V1 e 202-V11, §15, do RICMS/PB (Decreto 18.930/1997).\nAntes: redação anterior do art. 202-V1 sobre especificações do CT-e OS; §15 do art. 202-V11 sem a nova remissão expressa ao Ajuste 37/26. Depois: art. 202-V1 remete ao MOC do CT-e do Ajuste SINIEF 9/2007; §15 passa a mencionar Ajustes 24/26 e 37/26 quando o CT-e OS transmitido em contingência é rejeitado. Efeitos: 01/11/2026 (art. 202-V1) e 01/09/2026 (§15). Não foi criada alteração expressa de CT-e modelo 57 ou MDF-e.\nLE Logística — prioridade de monitoramento ALTA na PB; impacto direto condicionado à emissão de CT-e OS (modelo 67). Verificar modelo efetivamente emitido, versão do MOC, contingência, rejeições e documentos emitidos desde as datas retroativas. Risco: tratamento incorreto de rejeições se emitir CT-e OS e não adequar. Oncoexo: sem impacto material identificado. Med Fest: aplicabilidade depende de confirmação da operação/estabelecimento. Fonte: https://portal.sefaz.pb.gov.br/legislacao/35-decretos-estaduais/59-icms/397-icms-2026/18159-decreto-no-49-129-de-18-de-novembro-de-2026\n\nPARAÍBA — DECRETO Nº 49.128, DE 18/11/2026, publicado 19/11, com efeitos retroativos a 01/11/2026: ajusta art. 171-B do RICMS/PB ao Ajuste SINIEF 38/26, remete o MOC da NFC-e à versão online do Paraná. Baixo impacto potencial, condicionado à emissão de NFC-e; não foi confirmada obrigação nova para as três empresas. Fonte: https://portal.sefaz.pb.gov.br/legislacao/35-decretos-estaduais/59-icms/397-icms-2026/18158-decreto-no-49-128-de-18-de-novembro-de-2026\n\nPortaria PB 00236/2026, publicada 19/11, institui Comissão de Ética interna e revoga Portaria 00130/2025; sem impacto fiscal material.\n\nCE, BA, PA e PE: nenhuma mudança material nova confirmada na pesquisa, com ressalva de que não foi possível certificar leitura integral de todos os Diários Oficiais e atos do CONFAZ.\n\nCentral Fiscal: registrar apenas a alteração material do Decreto 49.129; não registrar a Portaria administrativa.",
+      "origem": "Execução do agendamento",
+      "completude": "Relatório completo recuperado",
+      "observacoes": "Relatório original de monitoramento; consultar a legislação vigente na fonte oficial."
+    },
+    {
       "id": "radar-tributario-medicamentos-2026-11-20",
       "radar": "Radar Tributário de Medicamentos",
       "data": "2026-11-20",

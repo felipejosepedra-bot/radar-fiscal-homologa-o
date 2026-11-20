@@ -1,6 +1,41 @@
 {
   "atualizacoes": [
     {
+      "id": "pb-decreto-49129-2026-cte-os-moc-contingencia",
+      "titulo": "PB internaliza Ajuste SINIEF 37/26 no CT-e OS e na rejeição de contingência",
+      "resumo": "Decreto PB 49.129/2026, publicado em 19/11, altera os arts. 202-V1 e 202-V11, §15, do RICMS/PB: remissão ao MOC do CT-e para especificações do CT-e OS e ajuste na hipótese de rejeição de CT-e OS transmitido em contingência. Efeitos retroativos a 01/11 e 01/09, respectivamente. Não há alteração expressa das regras do CT-e de carga ou MDF-e.",
+      "publicacao": "2026-11-19",
+      "vigencia": "2026-09-01",
+      "uf": [
+        "PB"
+      ],
+      "tema": [
+        "CT-e OS",
+        "Contingência",
+        "Documentos fiscais eletrônicos",
+        "ICMS transporte"
+      ],
+      "impacto": [
+        "LE Logística",
+        "Geral"
+      ],
+      "tipo": "Decreto estadual publicado e vigente com efeitos retroativos",
+      "norma": "Decreto PB nº 49.129, de 18/11/2026; Ajustes SINIEF 37/26 e 24/26; arts. 202-V1 e 202-V11, §15, RICMS/PB",
+      "antes": "O art. 202-V1 tinha redação anterior de referência técnica do CT-e OS; o caput do §15 do art. 202-V11 não incorporava expressamente o Ajuste SINIEF 37/26.",
+      "depois": "Art. 202-V1 remete ao MOC do CT-e previsto no Ajuste SINIEF 9/2007; §15 passa a citar os Ajustes 24/26 e 37/26 para CT-e OS rejeitado após transmissão em contingência. Efeitos em 01/11 e 01/09/2026, respectivamente.",
+      "providencias": "LE Logística: verificar se efetivamente emite CT-e OS (modelo 67); se sim, confrontar MOC, rotinas de rejeição/contingência e histórico desde 01/09; se emitir apenas CT-e de cargas (modelo 57), não alterar emissor com base neste decreto. Oncoexo: nenhuma alteração direta identificada. Med Fest: aplicabilidade depende da operação/estabelecimento.",
+      "fontes": [
+        {
+          "titulo": "SEFAZ-PB — Decreto 49.129/2026",
+          "url": "https://portal.sefaz.pb.gov.br/legislacao/35-decretos-estaduais/59-icms/397-icms-2026/18159-decreto-no-49-129-de-18-de-novembro-de-2026"
+        }
+      ],
+      "observacoes": "Prioridade elevada de acompanhamento para transportadora na PB, mas impacto operacional efetivo depende da emissão de CT-e OS. Decreto não reproduz no dispositivo alterado as providências completas do §15, que devem ser consultadas no texto consolidado.",
+      "radares": [
+        "Fiscal Estadual"
+      ]
+    },
+    {
       "id": "2026-rfb-cgibs-cfc-orientacao-destaque-ibscbs-dfe",
       "titulo": "Receita inicia orientação preventiva sobre destaque de CBS/IBS em DF-e",
       "resumo": "RFB, CGIBS e CFC usarão dados de DF-e emitidos até 15/11/2026 para orientar profissionais ligados a empresas com indícios de ausência total ou preenchimento parcial de campos CBS/IBS.",
