@@ -1,6 +1,43 @@
 {
   "atualizacoes": [
     {
+      "id": "2026-rfb-cgibs-cfc-orientacao-destaque-ibscbs-dfe",
+      "titulo": "Receita inicia orientação preventiva sobre destaque de CBS/IBS em DF-e",
+      "resumo": "RFB, CGIBS e CFC usarão dados de DF-e emitidos até 15/11/2026 para orientar profissionais ligados a empresas com indícios de ausência total ou preenchimento parcial de campos CBS/IBS.",
+      "publicacao": "2026-11-19",
+      "vigencia": "",
+      "uf": [
+        "Federal"
+      ],
+      "tema": [
+        "IBS",
+        "CBS",
+        "Documentos fiscais",
+        "Obrigações acessórias",
+        "Conformidade"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "LE Logística",
+        "Geral"
+      ],
+      "tipo": "Orientação preventiva sem força normativa autônoma",
+      "norma": "Comunicado RFB/CGIBS/CFC de 19/11/2026; referência ao Ato Conjunto RFB/CGIBS nº 4/2026",
+      "antes": "Ainda não havia sido divulgada essa ação específica de cruzamento e orientação baseada nos DF-e emitidos até 15/11/2026.",
+      "depois": "O CFC recebeu relação orientativa de profissionais ligados a empresas com indícios de ausência ou destaque parcial, sem que a seleção constitua autuação ou prova automática de inconformidade.",
+      "providencias": "Revisar XMLs por CNPJ e estabelecimento emissor; medir ausência e percentual de preenchimento dos grupos IBS/CBS; validar CST, cClassTrib, base, redução, alíquota e valor; documentar hipóteses legítimas e corrigir falhas de parametrização.",
+      "fontes": [
+        {
+          "titulo": "Ministério da Fazenda — orientação sobre destaque de CBS/IBS em DF-e",
+          "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-cgibs-e-cfc-vao-orientar-sobre-destaque-de-cbs-ibs-em-documentos-fiscais"
+        }
+      ],
+      "observacoes": "A seleção considerou empresas com mais de 150 DF-e; no destaque parcial, índice inferior a 86%. Aplicabilidade à Med Fest depende de confirmação da operação, estabelecimento e documento emitido. O Lucro Real não é o critério de incidência dessa obrigação.",
+      "radares": [
+        "Reforma Tributária"
+      ]
+    },
+    {
       "id": "pb-portaria-00235-2026-ufr-dezembro",
       "titulo": "Paraíba atualiza UFR/PB para R$ 74,61 a partir de dezembro de 2026",
       "resumo": "Portaria SEFAZ/PB 00235/2026, publicada em 18/11/2026, atualiza a UFR/PB de R$ 74,50 para R$ 74,61, com efeitos a partir de 01/12/2026. A alteração afeta valores legais referenciados em UFR, conforme hipótese aplicável, sem alterar diretamente alíquotas de ICMS.",

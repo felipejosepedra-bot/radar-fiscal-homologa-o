@@ -19,6 +19,17 @@
   },
   "relatorios": [
     {
+      "id": "radar-tributario-medicamentos-2026-11-20",
+      "radar": "Radar Tributário de Medicamentos",
+      "data": "2026-11-20",
+      "titulo": "Radar Tributário de Medicamentos — 20/11/2026",
+      "resumo": "Receita Federal, CGIBS e CFC iniciaram ação preventiva de orientação após identificar indícios de ausência ou preenchimento parcial de CBS/IBS em DF-e emitidos até 15/11/2026. Não houve nova alteração nacional de ICMS-ST ou tributação de medicamentos.",
+      "conteudo": "# Radar Tributário de Medicamentos — 20/11/2026\n\n## Novidade material\nEm 19/11/2026, Receita Federal, CGIBS e CFC comunicaram ação preventiva baseada na análise dos DF-e emitidos nos 30 dias anteriores a 15/11/2026. Foram selecionados indícios de ausência total ou destaque parcial de CBS/IBS. Para ausência total, o filtro considerou empresas com mais de 150 DF-e; para destaque parcial, mais de 150 DF-e e preenchimento inferior a 86%. Foram alcançados cerca de 25 mil profissionais da contabilidade ligados a aproximadamente 72 mil pessoas jurídicas.\n\nA publicação é orientação preventiva, não nova norma, autuação ou prova automática de infração. A própria Receita reconhece hipóteses legítimas de ausência de destaque e problemas de implementação.\n\nBase normativa relacionada: Ato Conjunto RFB/CGIBS nº 4/2026, alterado pelo Ato nº 7/2026. Publicação da orientação: 19/11/2026. Fonte oficial: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-cgibs-e-cfc-vao-orientar-sobre-destaque-de-cbs-ibs-em-documentos-fiscais\n\n## Impactos\nOncoexo: revisar NF-e emitidas, por filial efetivamente emissora, verificando campos CBS/IBS por item, CST, cClassTrib, base, redução, alíquota e valores; documentar operações legitimamente sem destaque.\n\nLE Logística: revisar CT-e e demais DF-e próprios quando alcançados pelo cronograma e leiaute aplicável; não presumir que toda ausência seja erro.\n\nMed Fest: aplicabilidade depende de confirmação da operação, estabelecimento e documento fiscal emitido; não transferir parametrização da Oncoexo.\n\nO Lucro Real não define a obrigação dos campos; o critério é o documento, a operação e o cronograma aplicável.\n\n## Ação prática\nExtrair XMLs emitidos de 16/10 a 15/11/2026 e medir: documentos sem grupos IBS/CBS, percentual de itens preenchidos, CST/cClassTrib inválidos, base zerada e diferenças por filial. Separar ausência legítima de falha de cadastro. Guardar evidências e corrigir parametrizações antes de eventual comunicação do contador ou CRC.\n\n## Demais temas\nNão foi identificada, após o relatório de 17/11, nova norma nacional que altere ICMS-ST, CEST, MVA/PMC, CFOP ou alíquotas de IBS/CBS para medicamentos. Também não houve nova decisão da CMED com efeito material confirmada no período.",
+      "origem": "Execução do agendamento",
+      "completude": "Relatório completo recuperado",
+      "observacoes": "Relatório original de monitoramento; consultar a legislação vigente na fonte oficial."
+    },
+    {
       "id": "radar-le-logistica-norte-nordeste-2026-11-19-0755",
       "radar": "Radar LE Logística Norte/Nordeste",
       "data": "2026-11-19",
