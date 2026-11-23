@@ -19,6 +19,17 @@
   },
   "relatorios": [
     {
+      "id": "radar-fiscal-estadual-2026-11-23-1400",
+      "radar": "Radar Fiscal Estadual",
+      "data": "2026-11-23",
+      "titulo": "Radar Fiscal Estadual — 23/11/2026",
+      "resumo": "A SEFAZ-BA confirmou a ativação em produção da regra F113 do MDF-e (rejeição 684) em 23/11/2026 para falta de CIOT nas operações alcançadas. Prioridade alta para a LE Logística. Sem outra alteração estadual material confirmada em PB, CE, PA e PE.",
+      "conteudo": "Radar Fiscal Estadual — 23/11/2026. Período: após a verificação de sexta-feira 20/11 até segunda-feira 23/11/2026.\n\nNOVIDADE MATERIAL: BAHIA / MDF-e / CIOT / LE LOGÍSTICA — ALTO.\nComunicado da SEFAZ-BA publicado em 23/11/2026 confirmou que entrou em produção na madrugada de 23/11 a regra de validação F113 (rejeição 684) para ausência de CIOT no MDF-e. Base: Ajuste SINIEF 03/2026, NT MDF-e 2026.001 e MOC MDF-e (F113). Situação: comunicado técnico de início de produção, não decreto estadual.\nANTES: a obrigação de informar CIOT já existia nas hipóteses legais, mas a nova validação ainda estava em homologação.\nDEPOIS: o MDF-e rodoviário passa a ser rejeitado em produção se faltar o grupo infCIOT nas hipóteses F113: tpEmit=1 (prestador), tpEmit=3 (CT-e globalizado) ou tpEmit=2 com tpTransp informado.\nLE LOGÍSTICA — ALTO: revisar TMS/emissor, geração prévia do CIOT, grupo infCIOT, identificação de tipo de emitente, subcontratações e reenvio de rejeições; testar imediatamente rotas envolvendo BA e PB sem presumir filial fora da PB. Risco de MDF-e não autorizado, retenção de carga e inconsistências com ANTT.\nONCOEXO — MÉDIO CONDICIONAL: conferir apenas estabelecimentos que emitem MDF-e rodoviário em hipóteses alcançadas pela F113, sobretudo transporte próprio com transportador terceiro informado. A obrigação não altera ICMS-ST de medicamentos nem automaticamente o MDF-e de carga própria com veículo próprio.\nMED FEST: aplicabilidade depende de confirmação da operação/estabelecimento.\nFontes: https://www.sefaz.ba.gov.br/info-sefaz/implantacao-da-regra-de-validacao-f113-rejeicao-684-obrigatoriedade-de-informacao-do-ciot-no-mdf-e/ ; https://moc.sped.fazenda.pr.gov.br/MDFe/RegrasDeValidacao.html ; https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ003_26 .\n\nPARAÍBA: índices estaduais de decretos ICMS e portarias consultados em 23/11 ainda listam como mais recentes os Decretos 49.129 e 49.128/2026 e a Portaria 00236/2026, já analisados. Não foi identificada nova alteração material estadual. A regra nacional F113 deve ser tratada como prioridade elevada pela LE Logística nas operações rodoviárias alcançadas. Consulta integral ao DOE-PB não foi concluída por indisponibilidade/timeout.\n\nCEARÁ, PARÁ E PERNAMBUCO: sem nova alteração material confirmada nas consultas efetuadas. BAHIA: além da ativação da F113, sem outra alteração material confirmada. A pesquisa não certifica leitura integral de todos os Diários Oficiais e atos do CONFAZ.\n\nCentral Fiscal: registrar novidade em atualizacoes.json e arquivar este relatório em relatorios.json, sem dados internos.",
+      "origem": "Execução do agendamento",
+      "completude": "Relatório completo recuperado",
+      "observacoes": "Relatório original de monitoramento; consultar a legislação vigente na fonte oficial."
+    },
+    {
       "id": "radar-fiscal-estadual-2026-11-20-1400",
       "radar": "Radar Fiscal Estadual",
       "data": "2026-11-20",

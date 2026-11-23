@@ -1,6 +1,51 @@
 {
   "atualizacoes": [
     {
+      "id": "2026-mdfe-f113-ciot-rejeicao-684-producao-2311",
+      "titulo": "MDF-e: regra F113 de CIOT passa a rejeitar documentos em produção em 23/11/2026",
+      "resumo": "A SEFAZ-BA confirmou em 23/11/2026 a entrada em produção da regra F113, que rejeita com código 684 MDF-e rodoviário sem o grupo infCIOT nas hipóteses previstas no MOC. A obrigação documental decorre do Ajuste SINIEF 03/2026; a novidade é o bloqueio automático da autorização.",
+      "publicacao": "2026-11-23",
+      "vigencia": "2026-11-23",
+      "uf": [
+        "BA",
+        "Geral"
+      ],
+      "tema": [
+        "MDF-e",
+        "CIOT",
+        "Transporte rodoviário",
+        "Regras de validação",
+        "Obrigações acessórias"
+      ],
+      "impacto": [
+        "LE Logística",
+        "Oncoexo"
+      ],
+      "tipo": "Comunicado técnico oficial — início de regra de validação em produção",
+      "norma": "Comunicado SEFAZ-BA de 23/11/2026; Regra F113 (rejeição 684); NT MDF-e 2026.001; Ajuste SINIEF 03/2026",
+      "antes": "O CIOT já era exigido nas operações alcançadas pelo Ajuste SINIEF 03/2026, mas a regra F113 estava disponível para testes e não bloqueava a autorização em produção pelo novo critério.",
+      "depois": "Desde a madrugada de 23/11/2026, o autorizador aplica em produção a F113 (rejeição 684). No modal rodoviário, exige infCIOT para tpEmit=1, tpEmit=3 e tpEmit=2 com tpTransp informado, conforme MOC.",
+      "providencias": "LE Logística: revisar imediatamente TMS, geração prévia do CIOT e XML do MDF-e, testando tpEmit, tpTransp, infCIOT e tratamento da rejeição 684; atenção a subcontratação e operações rodoviárias em BA/PB. Oncoexo: conferir apenas operações em que o próprio estabelecimento emite MDF-e e contrata transportador, especialmente tpEmit=2 com tpTransp preenchido. Med Fest: aplicabilidade depende de confirmação da operação/estabelecimento.",
+      "fontes": [
+        {
+          "titulo": "SEFAZ-BA — implantação da regra F113 em 23/11/2026",
+          "url": "https://www.sefaz.ba.gov.br/info-sefaz/implantacao-da-regra-de-validacao-f113-rejeicao-684-obrigatoriedade-de-informacao-do-ciot-no-mdf-e/"
+        },
+        {
+          "titulo": "MOC oficial MDF-e — regras de validação",
+          "url": "https://moc.sped.fazenda.pr.gov.br/MDFe/RegrasDeValidacao.html"
+        },
+        {
+          "titulo": "CONFAZ — Ajuste SINIEF 03/2026",
+          "url": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ003_26"
+        }
+      ],
+      "observacoes": "Comunicado estadual confirma entrada em produção; não é novo decreto estadual. A abrangência nacional decorre do MOC e do Ajuste SINIEF. Não pressupõe filial da LE Logística na Bahia nem impacto automático em transporte de carga própria com frota própria. A data de publicação aqui é a do comunicado de implantação.",
+      "radares": [
+        "Fiscal Estadual"
+      ]
+    },
+    {
       "id": "pb-decreto-49129-2026-cte-os-moc-contingencia",
       "titulo": "PB internaliza Ajuste SINIEF 37/26 no CT-e OS e na rejeição de contingência",
       "resumo": "Decreto PB 49.129/2026, publicado em 19/11, altera os arts. 202-V1 e 202-V11, §15, do RICMS/PB: remissão ao MOC do CT-e para especificações do CT-e OS e ajuste na hipótese de rejeição de CT-e OS transmitido em contingência. Efeitos retroativos a 01/11 e 01/09, respectivamente. Não há alteração expressa das regras do CT-e de carga ou MDF-e.",
