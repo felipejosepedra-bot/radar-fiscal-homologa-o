@@ -1,6 +1,43 @@
 {
   "atualizacoes": [
     {
+      "id": "pe-decreto-61736-2026-nfe-recusa",
+      "titulo": "PE regulamenta correção de NF-e, redução de valores e recusa de entrega",
+      "resumo": "Decreto 61.736/2026 modifica o RICMS/PE e remete aos Ajustes SINIEF 13/2024 e 49/2025, com vigência em 01/01/2027.",
+      "publicacao": "2026-11-20",
+      "vigencia": "2027-01-01",
+      "uf": [
+        "PE"
+      ],
+      "tema": [
+        "NF-e / CT-e",
+        "Obrigações acessórias"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "LE Logística"
+      ],
+      "tipo": "Decreto estadual",
+      "norma": "Decreto PE 61.736/2026",
+      "antes": "Redação anterior dos arts. 123, 127 e 534; texto consolidado anterior não verificado nesta execução.",
+      "depois": "Remissão aos procedimentos nacionais para erro na entrega, redução de valores ou quantidades e retorno por recusa ou destinatário não localizado.",
+      "providencias": "Revisar ERP, rotinas de devolução, notas de crédito e comunicação entre transportador e emitente antes de janeiro de 2027.",
+      "fontes": [
+        {
+          "titulo": "DOE PE de 20/11/2026",
+          "url": "https://diariooficial.cepe.com.br/1/arquivos/resumoDiario/2026-11-20/2026-11-20.pdf"
+        }
+      ],
+      "observacoes": "Oncoexo: adequação fiscal direta. LE Logística: impacto documental indireto, sem mudança direta de ICMS sobre frete. Aplicabilidade à Med Fest depende de confirmação da operação/estabelecimento.",
+      "radares": [
+        "Fiscal Estadual"
+      ],
+      "relevancia": {
+        "Oncoexo": "ALTO",
+        "LE Logística": "MÉDIO"
+      }
+    },
+    {
       "id": "2026-portaria-rfb-763-piloto-cbs",
       "titulo": "RFB abre o Piloto RTC-CBS a todas as pessoas jurídicas inscritas no CNPJ",
       "resumo": "A Portaria RFB 763/2026 substitui a disciplina anterior e permite acesso ao ambiente restrito do Piloto da CBS sem convite ou indicação, mediante requisitos operacionais, cadastrais e de segurança.",

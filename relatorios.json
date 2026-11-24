@@ -19,6 +19,25 @@
   },
   "relatorios": [
     {
+      "id": "radar-fiscal-estadual-2026-11-24-revisao",
+      "radar": "Radar Fiscal Estadual",
+      "data": "2026-11-24",
+      "titulo": "Radar Fiscal Estadual — revisão de 24/11/2026",
+      "resumo": "Identificado ato ainda não cadastrado: Decreto PE 61.736/2026, sobre correção de NF-e e recusa de entrega, vigente em 01/01/2027.",
+      "conteudo": "PE: Decreto 61.736/2026, DOE 20/11/2026, vigente em 01/01/2027. Altera arts. 123, 127 e 534 do RICMS/PE, remetendo aos Ajustes SINIEF 13/2024 e 49/2025 para erros na entrega, redução de valores/quantidades e retorno por recusa ou destinatário não localizado. Texto anterior integral não confrontado. Oncoexo ALTO: revisar emissão, devoluções e notas de crédito. LE Logística MÉDIO: ajustar comunicação de insucesso de entrega; sem alteração direta de ICMS-frete. Med Fest: aplicabilidade depende de confirmação. Fonte oficial: https://diariooficial.cepe.com.br/1/arquivos/resumoDiario/2026-11-20/2026-11-20.pdf. PB Decreto 49.129/2026 e MDF-e F113 CIOT já presentes no acervo, sem duplicação. Cobertura dos demais diários não confirmada integralmente.",
+      "origem": "Revisão manual do agendamento",
+      "completude": "Relatório de revisão",
+      "observacoes": "Consultar legislação vigente na fonte oficial.",
+      "uf": [
+        "PE"
+      ],
+      "novidade_material": true,
+      "relevancia": {
+        "Oncoexo": "ALTO",
+        "LE Logística": "MÉDIO"
+      }
+    },
+    {
       "id": "relatorio-fiscal-farmaceutico-2026-11-24",
       "radar": "Relatório Fiscal Farmacêutico",
       "data": "2026-11-24",
