@@ -1,6 +1,81 @@
 {
   "atualizacoes": [
     {
+      "id": "2026-portaria-rfb-763-piloto-cbs",
+      "titulo": "RFB abre o Piloto RTC-CBS a todas as pessoas jurídicas inscritas no CNPJ",
+      "resumo": "A Portaria RFB 763/2026 substitui a disciplina anterior e permite acesso ao ambiente restrito do Piloto da CBS sem convite ou indicação, mediante requisitos operacionais, cadastrais e de segurança.",
+      "publicacao": "2026-11-23",
+      "vigencia": "2026-11-23",
+      "uf": [
+        "Federal"
+      ],
+      "tema": [
+        "Reforma Tributária",
+        "CBS",
+        "Obrigações acessórias",
+        "Sistemas"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "LE Logística",
+        "Geral"
+      ],
+      "tipo": "Norma publicada — ampliação de acesso ao ambiente de testes",
+      "norma": "Portaria RFB nº 763, de 19/11/2026",
+      "antes": "A participação no Piloto seguia modelo restrito, com seleção, convite ou indicação nos termos das Portarias RFB nº 549/2025 e nº 596/2025.",
+      "depois": "Pessoas jurídicas inscritas no CNPJ podem acessar o Piloto sem convite, indicação ou solicitação prévia, desde que cumpram os requisitos aplicáveis; as operações simuladas continuam sem efeitos tributários ou jurídicos.",
+      "providencias": "Habilitar cada CNPJ separadamente, outorgar procurações específicas para Portal, APIs e DeRE quando necessário e executar roteiro de testes por empresa e estabelecimento. Para Med Fest, a aplicabilidade depende de confirmação da operação/estabelecimento.",
+      "fontes": [
+        {
+          "titulo": "Receita Federal — ampliação do acesso ao Piloto da CBS",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs/"
+        },
+        {
+          "titulo": "Receita Federal — página oficial do Piloto RTC-CBS",
+          "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/piloto/piloto/"
+        }
+      ],
+      "observacoes": "Ambiente experimental; não substitui obrigações principais ou acessórias e não gera documentos com validade jurídica. Lucro Real não é critério de acesso.",
+      "radares": [
+        "Relatório Farmacêutico"
+      ]
+    },
+    {
+      "id": "2026-anvisa-re4517-hertuzo-imfinzi",
+      "titulo": "Anvisa registra biossimilar Hertuzo e amplia indicação do Imfinzi",
+      "resumo": "A RE Anvisa 4.517/2026 deferiu o registro do Hertuzo (pertuzumabe), biossimilar oncológico, e a ampliação de indicação do Imfinzi (durvalumabe), conforme divulgação oficial.",
+      "publicacao": "2026-11-23",
+      "vigencia": "2026-11-23",
+      "uf": [
+        "Federal"
+      ],
+      "tema": [
+        "Medicamentos",
+        "Anvisa",
+        "Oncologia",
+        "Registro sanitário"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "LE Logística"
+      ],
+      "tipo": "Norma publicada — registro sanitário e alteração pós-registro",
+      "norma": "Resolução-RE Anvisa nº 4.517, de 18/11/2026",
+      "antes": "O Hertuzo ainda não tinha registro sanitário aprovado no Brasil e o Imfinzi não incluía a nova indicação divulgada para câncer de bexiga músculo-invasivo.",
+      "depois": "O Hertuzo foi registrado como biossimilar do Perjeta para as indicações aprovadas de câncer de mama HER2-positivo; o Imfinzi recebeu ampliação de indicação nas condições aprovadas pela Anvisa.",
+      "providencias": "Antes de cadastrar, comprar, armazenar ou distribuir, validar apresentação e registro, detentor, cadeia de conservação, rastreabilidade, autorizações e preço CMED vigente; revisar NCM/CEST e ICMS-ST por UF. Para Med Fest, a aplicabilidade depende de confirmação da operação/estabelecimento.",
+      "fontes": [
+        {
+          "titulo": "Anvisa — novo medicamento para câncer de mama e ampliação de uso",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-registro-de-medicamento-para-cancer-de-mama"
+        }
+      ],
+      "observacoes": "O registro sanitário não altera automaticamente preço CMED, ICMS-ST, PMC ou tratamento de IBS/CBS. Impacto da LE Logística depende de contratação para armazenagem/transporte desses produtos.",
+      "radares": [
+        "Relatório Farmacêutico"
+      ]
+    },
+    {
       "id": "2026-mdfe-f113-ciot-rejeicao-684-producao-2311",
       "titulo": "MDF-e: regra F113 de CIOT passa a rejeitar documentos em produção em 23/11/2026",
       "resumo": "A SEFAZ-BA confirmou em 23/11/2026 a entrada em produção da regra F113, que rejeita com código 684 MDF-e rodoviário sem o grupo infCIOT nas hipóteses previstas no MOC. A obrigação documental decorre do Ajuste SINIEF 03/2026; a novidade é o bloqueio automático da autorização.",
