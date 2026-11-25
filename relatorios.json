@@ -19,6 +19,25 @@
   },
   "relatorios": [
     {
+      "id": "radar-isencoes-medicamentos-2026-11-25-cv132-133",
+      "radar": "Radar de Isenções de Medicamentos",
+      "data": "2026-11-25",
+      "titulo": "Radar de Isenções — Convênios 132/133 ratificados em 24/11/2026",
+      "resumo": "Dois convênios nacionais ratificados em 24/11/2026 afetam a continuidade e as condicionantes dos benefícios de ICMS de medicamentos: Convênio 132/2026 abrange, entre outros, o 162/1994 (câncer), e Convênio 133/2026 prorroga os 140/2001 e 87/2002 até dezembro de 2027. Aplicação individual em PE/PB/CE/BA/PA depende de verificação estadual.",
+      "conteudo": "# Radar de Isenções de Medicamentos — 25/11/2026\n\n**Janela:** 18–25/11/2026. **Resultado:** duas novidades materiais nacionais ratificadas, com aplicações estaduais não verificadas integralmente.\n\n## Convênio ICMS 132/2026\n- **Publicação:** DOU 18/11/2026. **Ratificação:** Ato Declaratório 30/2026, DOU 24/11/2026. **Regra de condicionantes:** 01/01/2027.\n- **Antes:** inexistência da regra transitória específica do Convênio 132/2026; mantinham-se as condições particulares dos benefícios aplicados por cada UF.\n- **Depois:** autoriza estados a considerar cumpridas as condicionantes de PIS/Pasep, Cofins e IPI se a operação as cumpria em 31/12/2026 (inclusive via Convênio ICMS 28/2026). Para 2027, é necessário observar essas condições para os benefícios do Anexo Único.\n- **Medicamentos no Anexo:** Convênio 162/1994 (tratamento de câncer; item 6), 10/2002 (AIDS; item 16), 58/2020 (câncer; item 35) e 131/2021 (radiofármacos; item 36).\n- **Fonte oficial:** https://app1.sefaz.mt.gov.br/Sistema/Legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/7f01e6fa3e306d2203258eb3004c5127?OpenDocument=; ratificação: https://app1.sefaz.mt.gov.br/Sistema/Legislacao/legislacaotribut.nsf/173e6c0d2202fdcb03258b1700659f1e/8c6c2887417a9d6703258eb9004b59e3?OpenDocument=.\n\n## Convênio ICMS 133/2026\n- **Publicação:** DOU 18/11/2026. **Ratificação:** Ato Declaratório 30/2026, DOU 24/11/2026. **Condições operacionais:** 01/01/2027.\n- **Antes:** o Convênio 133/2026 ainda não havia fixado prorrogação até dezembro de 2027 para os convênios alcançados.\n- **Depois:** estende até **31/12/2027** os Convênios 140/2001 (medicamentos; inciso VIII) e 87/2002 (órgãos públicos; inciso XI), além do 9/2007 (pesquisas com medicamentos; inciso XVII) e 73/2010 (H1N1; inciso XXIII). Condições de PIS/Cofins/IPI devem ser observadas para fruição a partir de 01/01/2027.\n- **Fonte oficial:** https://app1.sefaz.mt.gov.br/Sistema/Legislacao/legislacaotribut.nsf/173e6c0d2202fdcb03258b1700659f1e/2092c8ceccad11b403258eb30050f592; ratificação: https://app1.sefaz.mt.gov.br/Sistema/Legislacao/legislacaotribut.nsf/173e6c0d2202fdcb03258b1700659f1e/8c6c2887417a9d6703258eb9004b59e3?OpenDocument=; Comsefaz: https://comsefaz.org.br/novo/confaz-prorroga-mais-26-convenios-de-icms-sobre-beneficios-fiscais-ate-dezembro-de-2027/.\n\n## Estado da internalização\nPE, PB, CE, BA e PA: **alterações nacionais confirmadas; incorporação e alcance individual por estado pendentes de checagem.** Nenhuma exclusão individual de medicamento/NCM foi demonstrada. Não presumir isenção automática pelo convênio ou pelo NCM isolado.\n\n## Impactos e providências\n- **Oncoexo — ALTO:** mapear cada filial e benefício de medicamentos; revisar especialmente operações com órgãos públicos e oncologia; documentar condições existentes em 31/12/2026; só ajustar WinThor 514/4000 após verificar a norma estadual vigente.\n- **LE Logística — BAIXO:** nenhuma mudança direta na incidência de ICMS do frete foi demonstrada.\n- **Med Fest:** aplicabilidade depende de confirmação da operação/estabelecimento.\n\n**Limitação:** esta pesquisa não certificou a totalidade dos DOEs de PE/PB/CE/BA/PA nem a comparação de todos os itens dos anexos estaduais. Há, porém, publicação nacional e ratificação verificadas em fonte oficial.",
+      "origem": "Execução do agendamento",
+      "completude": "Relatório completo recuperado",
+      "observacoes": "Relatório original de monitoramento; consultar a legislação vigente na fonte oficial. Cobertura dos DOEs estaduais não exaustiva.",
+      "uf": [
+        "Federal"
+      ],
+      "novidade_material": true,
+      "relevancia": {
+        "Oncoexo": "ALTO",
+        "LE Logística": "BAIXO"
+      }
+    },
+    {
       "id": "radar-fiscal-estadual-2026-11-24-revisao",
       "radar": "Radar Fiscal Estadual",
       "data": "2026-11-24",

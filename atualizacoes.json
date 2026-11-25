@@ -1,6 +1,97 @@
 {
   "atualizacoes": [
     {
+      "id": "2026-convenio-icms-132-condicionantes-medicamentos-2027",
+      "titulo": "Convênio 132/2026 define condicionantes de ICMS para medicamentos a partir de 2027",
+      "resumo": "Convênio ICMS 132/2026, publicado em 18/11 e ratificado em 24/11/2026, disciplina o cumprimento das condicionantes de PIS/Cofins e IPI em 31/12/2026 para a fruição de benefícios ICMS a partir de 2027. O Anexo Único inclui os Convênios 162/1994 (oncologia), 10/2002 (AIDS), 58/2020 (oncologia) e 131/2021 (radiofármacos).",
+      "publicacao": "2026-11-18",
+      "vigencia": "2026-11-24",
+      "uf": [
+        "Federal"
+      ],
+      "tema": [
+        "ICMS",
+        "Isenção de medicamentos",
+        "Condicionantes PIS/Cofins/IPI",
+        "Transição 2027"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "Geral"
+      ],
+      "tipo": "Convênio ICMS — regra nacional ratificada; efeitos operacionais futuros",
+      "norma": "Convênio ICMS nº 132/2026; Ato Declaratório CONFAZ nº 30/2026",
+      "antes": "Não existia a disciplina específica do Convênio 132/2026 para as condicionantes federais dos convênios listados no Anexo Único; benefícios estaduais e condições preexistentes devem ser examinados separadamente.",
+      "depois": "Os estados ficam autorizados a considerar satisfeitas as condicionantes de desoneração/redução de PIS/Cofins e IPI se a operação as cumpria em 31/12/2026, inclusive nos casos do Convênio 28/2026. A partir de 01/01/2027, os benefícios dos convênios do Anexo Único somente alcançam operações que observem essa regra. O Convênio 162/1994 está expressamente no item 6 do Anexo.",
+      "providencias": "Oncoexo: mapear operações por filial e benefício (especialmente oncologia), reunir evidências das condições verificáveis em 31/12/2026, conferir os atos internos de PE/PB/CE/BA/PA antes de revisar parametrizações WinThor 514/4000. Med Fest: aplicabilidade depende de confirmação de operação/estabelecimento. LE Logística: sem alteração direta de ICMS-frete demonstrada.",
+      "fontes": [
+        {
+          "titulo": "SEFAZ-MT — texto do Convênio ICMS 132/2026",
+          "url": "https://app1.sefaz.mt.gov.br/Sistema/Legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/7f01e6fa3e306d2203258eb3004c5127?OpenDocument="
+        },
+        {
+          "titulo": "SEFAZ-MT — Ato Declaratório 30/2026, ratificação",
+          "url": "https://app1.sefaz.mt.gov.br/Sistema/Legislacao/legislacaotribut.nsf/173e6c0d2202fdcb03258b1700659f1e/8c6c2887417a9d6703258eb9004b59e3?OpenDocument="
+        }
+      ],
+      "observacoes": "Norma nacional ratificada; a recepção, alcance e aplicação por cada estado monitorado ainda não foram comprovados nesta verificação. Sem alteração nominativa de produto ou NCM demonstrada; não presumir perda automática de isenção. Efeitos da condicionante a partir de 01/01/2027.",
+      "radares": [
+        "Isenções de Medicamentos"
+      ],
+      "relevancia": {
+        "Oncoexo": "ALTO",
+        "LE Logística": "BAIXO"
+      }
+    },
+    {
+      "id": "2026-convenio-icms-133-prorrogacao-medicamentos-2027",
+      "titulo": "Convênio 133/2026 prorroga benefícios ICMS de medicamentos até 2027",
+      "resumo": "Convênio ICMS 133/2026, publicado em 18/11 e ratificado em 24/11/2026, prorroga até 31/12/2027, entre 26 convênios, os Convênios ICMS 140/2001 (medicamentos) e 87/2002 (fármacos e medicamentos destinados à administração pública). Prevê condições de PIS/Cofins e IPI para a fruição a partir de 2027.",
+      "publicacao": "2026-11-18",
+      "vigencia": "2026-11-24",
+      "uf": [
+        "Federal"
+      ],
+      "tema": [
+        "ICMS",
+        "Isenção de medicamentos",
+        "Fornecimento a órgãos públicos",
+        "Prorrogação",
+        "Transição 2027"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "Geral"
+      ],
+      "tipo": "Convênio ICMS — prorrogação nacional ratificada; implementação estadual a verificar",
+      "norma": "Convênio ICMS nº 133/2026; Ato Declaratório CONFAZ nº 30/2026",
+      "antes": "A nova data-limite de 31/12/2027 ainda não havia sido estabelecida pelo Convênio 133/2026 para os convênios alcançados; eventuais prazos e regulamentações anteriores por estado devem ser confirmados.",
+      "depois": "Prorrogadas até 31/12/2027 as disposições dos Convênios ICMS 140/2001 (inciso VIII) e 87/2002 (inciso XI), entre outros, sem ampliar ou reduzir o benefício face à situação de 31/12/2026. Regras para considerar atendidas condicionantes de PIS/Cofins e IPI; a partir de 01/01/2027, exige-se observar essas condicionantes.",
+      "providencias": "Oncoexo: revisar fornecimentos públicos e outros medicamentos contemplados por 140/2001 e 87/2002, identificar NCM/princípio ativo/descrição/beneficiário, verificar decretos e anexos de PE/PB/CE/BA/PA antes de parametrizar WinThor. Guardar evidências de atendimento das condições em 31/12/2026. LE Logística: sem mudança direta no transporte. Med Fest: aplicabilidade depende de confirmação de operação/estabelecimento.",
+      "fontes": [
+        {
+          "titulo": "SEFAZ-MT — texto do Convênio ICMS 133/2026",
+          "url": "https://app1.sefaz.mt.gov.br/Sistema/Legislacao/legislacaotribut.nsf/173e6c0d2202fdcb03258b1700659f1e/2092c8ceccad11b403258eb30050f592"
+        },
+        {
+          "titulo": "SEFAZ-MT — Ato Declaratório 30/2026, ratificação",
+          "url": "https://app1.sefaz.mt.gov.br/Sistema/Legislacao/legislacaotribut.nsf/173e6c0d2202fdcb03258b1700659f1e/8c6c2887417a9d6703258eb9004b59e3?OpenDocument="
+        },
+        {
+          "titulo": "Comsefaz — comunicado oficial sobre a prorrogação",
+          "url": "https://comsefaz.org.br/novo/confaz-prorroga-mais-26-convenios-de-icms-sobre-beneficios-fiscais-ate-dezembro-de-2027/"
+        }
+      ],
+      "observacoes": "O Convênio 133/2026 inclui também o Convênio 9/2007 (pesquisa clínica) e o Convênio 73/2010 (H1N1). Prorrogação nacional não prova aplicação individual no estado: checar internalização e lista vigente antes da concessão. Nenhum medicamento ou NCM foi declarado retirado nesta pesquisa.",
+      "radares": [
+        "Isenções de Medicamentos"
+      ],
+      "relevancia": {
+        "Oncoexo": "ALTO",
+        "LE Logística": "BAIXO"
+      }
+    },
+    {
       "id": "pe-decreto-61736-2026-nfe-recusa",
       "titulo": "PE regulamenta correção de NF-e, redução de valores e recusa de entrega",
       "resumo": "Decreto 61.736/2026 modifica o RICMS/PE e remete aos Ajustes SINIEF 13/2024 e 49/2025, com vigência em 01/01/2027.",
