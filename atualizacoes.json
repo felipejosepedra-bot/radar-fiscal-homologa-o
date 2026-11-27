@@ -1,6 +1,241 @@
 {
   "atualizacoes": [
     {
+      "id": "pb-lei-14748-2026-icms-monofasico-combustiveis",
+      "titulo": "PB prevê incorporação de regras nacionais do ICMS monofásico de combustíveis sem ato estadual específico",
+      "resumo": "Art. 6º da Lei 14.748/2026 determina que produtos e alíquotas específicas da LC 192/2022 sejam definidos por convênio CONFAZ, independentemente de ato estadual de implementação.",
+      "publicacao": "2026-11-25",
+      "vigencia": "2026-11-25",
+      "uf": [
+        "PB"
+      ],
+      "tema": [
+        "ICMS",
+        "Combustíveis",
+        "Transporte"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "LE Logística"
+      ],
+      "tipo": "Lei estadual",
+      "norma": "Lei PB 14.748/2026, arts. 6º e 7º",
+      "antes": "A nova lei não existia; não foi confrontado integralmente o regime anterior de incorporação.",
+      "depois": "Previsão expressa de incorporação das definições nacionais sem ato estadual específico. Não altera por si só o valor da alíquota.",
+      "providencias": "Acompanhar convênios nacionais sobre combustíveis e respectivas vigências; conferir documentos de aquisição, créditos admitidos e custos de transporte.",
+      "fontes": [
+        {
+          "titulo": "SEFAZ-PB — Lei 14.748/2026",
+          "url": "https://portal.sefaz.pb.gov.br/legislacao/34-leis/65-ipva/18168-lei-no-14-748-de-24-de-novembro-de-2026"
+        }
+      ],
+      "observacoes": "Oncoexo MÉDIO: reflexo potencial em frota e fretes. LE Logística ALTO: adequar monitoramento de combustíveis, sem mudança direta de alíquota do frete. Isenção de IPVA prevista na mesma lei a partir de 2027 restringe-se ao transporte público complementar intermunicipal de passageiros. Aplicabilidade à Med Fest depende de confirmação da operação/estabelecimento.",
+      "radares": [
+        "Fiscal Estadual"
+      ],
+      "relevancia": {
+        "Oncoexo": "MÉDIO",
+        "LE Logística": "ALTO"
+      }
+    },
+    {
+      "id": "pe-comunicado-2026-11-25-fronteiras-vencimento-27",
+      "titulo": "PE confirma vencimento do Extrato Fronteiras em 27/11/2026",
+      "resumo": "Comunicado de 25/11 informa antecipação do vencimento para sexta-feira, 27/11, pois dia 28 cai no sábado.",
+      "publicacao": "2026-11-25",
+      "vigencia": "2026-11-27",
+      "uf": [
+        "PE"
+      ],
+      "tema": [
+        "ICMS",
+        "ICMS Fronteiras",
+        "Prazos"
+      ],
+      "impacto": [
+        "Oncoexo"
+      ],
+      "tipo": "Comunicado oficial de vencimento",
+      "norma": "Art. 351 e Anexo 24 do Decreto PE 44.650/2017",
+      "antes": "Data ordinária dia 28, que em novembro de 2026 cai no sábado.",
+      "depois": "Vencimento aplicável em 27/11/2026, sem alteração da regra de cálculo.",
+      "providencias": "Conferir extrato, DAE e efetivação do pagamento dos estabelecimentos alcançados; risco de multa e juros.",
+      "fontes": [
+        {
+          "titulo": "SEFAZ-PE — Extrato Fronteiras",
+          "url": "https://www.sefaz.pe.gov.br/Noticias-Destaque/Paginas/Extrato-Fronteiras-de-novembro-vence-nesta-sexta-feira-%2827%29.aspx"
+        }
+      ],
+      "observacoes": "Oncoexo MUITO ALTO se houver saldo devido. LE Logística BAIXO: sem impacto material na prestação de transporte. Aplicabilidade à Med Fest depende de confirmação da operação/estabelecimento. Aplicação do calendário vigente, não nova regra de alíquota.",
+      "radares": [
+        "Fiscal Estadual"
+      ],
+      "relevancia": {
+        "Oncoexo": "MUITO ALTO",
+        "LE Logística": "BAIXO"
+      }
+    },
+    {
+      "id": "pa-decreto-5811-2026-prorefis",
+      "titulo": "PA regulamenta PROREFIS 2026 com adesão até 15 de dezembro",
+      "resumo": "Decreto 5.811/2026 regulamenta Lei 11.797/2026: débitos de ICMS com fatos geradores até 30/06/2026 podem ter redução de multas e juros, com adesão de 26/11 a 15/12/2026.",
+      "publicacao": "2026-11-25",
+      "vigencia": "2026-11-25",
+      "uf": [
+        "PA"
+      ],
+      "tema": [
+        "ICMS",
+        "Regularização fiscal",
+        "Parcelamento"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "LE Logística"
+      ],
+      "tipo": "Decreto estadual regulamentador",
+      "norma": "Decreto PA 5.811/2026; Lei 11.797/2026; Convênio ICMS 126/2026",
+      "antes": "Lei 11.797/2026 autorizava o programa.",
+      "depois": "Regulamentação estabelece adesão, pagamento e condições: 100% de redução de multa e juros à vista (até 95% para multa isolada por obrigação acessória), ou 80% em até cinco parcelas, com entrada de 50%. Adesão e primeira parcela até 15/12/2026.",
+      "providencias": "Levantar débitos elegíveis por estabelecimento, simular modalidades, avaliar renúncia a impugnações e ações antes de aderir, controlar débito automático e prazos.",
+      "fontes": [
+        {
+          "titulo": "DOE PA 36.853 extra de 25/11/2026, p. 4",
+          "url": "https://ioepa.com.br/pages/2026/2026.11.25.EXTRA.pdf"
+        },
+        {
+          "titulo": "Agência Pará — PROREFIS",
+          "url": "https://agenciapara.com.br/noticia/80790/governo-do-para-sanciona-lei-que-reduz-em-ate-100-multas-e-juros-de-tributos-estaduais"
+        }
+      ],
+      "observacoes": "Oncoexo ALTO se houver débitos elegíveis em PA. LE Logística MÉDIO condicionado à existência de débitos estaduais alcançados, sem presumir filial. Med Fest: aplicabilidade depende de confirmação da operação/estabelecimento. Adesão implica reconhecimento do débito e desistência/renúncia a contestações. Atrasos superiores a 60 dias nas hipóteses do art. 6º podem revogar parcelamento.",
+      "radares": [
+        "Fiscal Estadual"
+      ],
+      "relevancia": {
+        "Oncoexo": "ALTO",
+        "LE Logística": "MÉDIO"
+      }
+    },
+    {
+      "id": "2026-cgsn196-transicao",
+      "titulo": "CGSN atualiza regras do Simples para a transição do IBS/CBS",
+      "resumo": "A Resolução CGSN 196/2026 atualiza tabelas, reconhecimento de receitas, contratos públicos e regras transitórias do regime de caixa para optantes do Simples.",
+      "publicacao": "2026-11-24",
+      "vigencia": "2027-01-01",
+      "uf": [
+        "Federal"
+      ],
+      "tema": [
+        "Reforma Tributária",
+        "Simples Nacional",
+        "IBS",
+        "CBS"
+      ],
+      "impacto": [
+        "Geral"
+      ],
+      "tipo": "Norma publicada",
+      "norma": "Resolução CGSN nº 196, de 16/11/2026",
+      "antes": "As regras do Simples ainda não incorporavam integralmente os novos procedimentos de transição descritos na Resolução 196.",
+      "depois": "Optantes passam a observar as adaptações ao IBS/CBS, inclusive reconhecimento de receita, identificação de contratos públicos e regra de encerramento do regime de caixa de 2026.",
+      "providencias": "Manter Oncoexo, Med Fest e LE Logística parametrizadas como Lucro Real; revisar apenas contrapartes optantes do Simples e os documentos recebidos.",
+      "fontes": [
+        {
+          "titulo": "Receita Federal — novas regras do Simples e transição",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria/"
+        }
+      ],
+      "observacoes": "As três empresas monitoradas são Lucro Real; impacto próprio é indireto. As disposições de IBS/CBS produzem efeitos a partir de 01/01/2027.",
+      "radares": [
+        "Reforma Tributária"
+      ],
+      "relevancia": {
+        "Oncoexo": "BAIXO",
+        "LE Logística": "BAIXO"
+      }
+    },
+    {
+      "id": "2026-anvisa-re4623-falsificados-oncologia",
+      "titulo": "Anvisa determina apreensão de lotes falsificados de Darzalex e Imbruvica",
+      "resumo": "A RE Anvisa 4.623/2026 alcança lotes irregulares de medicamentos oncológicos, exigindo bloqueio, segregação e rastreabilidade imediata.",
+      "publicacao": "2026-11-25",
+      "vigencia": "2026-11-25",
+      "uf": [
+        "Federal"
+      ],
+      "tema": [
+        "Medicamentos",
+        "Anvisa",
+        "Oncologia",
+        "Falsificação",
+        "Rastreabilidade"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "Geral"
+      ],
+      "tipo": "Norma publicada — medida de fiscalização sanitária",
+      "norma": "Resolução-RE Anvisa nº 4.623/2026",
+      "antes": "Os lotes ainda não estavam abrangidos por medida federal específica de apreensão divulgada.",
+      "depois": "Ficam alcançados os lotes QAS3E15 e QHS5U06 de Darzalex e 2154044 e 06A02V de Imbruvica 140 mg, além de outros produtos descritos na resolução.",
+      "providencias": "Bloquear lotes no ERP/WMS, conferir estoque físico e em trânsito, segregar unidades, suspender expedição e acionar qualidade, fornecedor e vigilância sanitária. Para Med Fest, a aplicabilidade depende de confirmação da operação/estabelecimento.",
+      "fontes": [
+        {
+          "titulo": "Anvisa — apreensão de medicamentos falsificados para câncer",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-determina-apreensao-de-medicamentos-falsificados-para-tratamento-de-cancer"
+        }
+      ],
+      "observacoes": "Não altera automaticamente ICMS-ST; o efeito imediato é sanitário e logístico. LE Logística somente se houver custódia/transporte dos lotes.",
+      "radares": [
+        "Reforma Tributária"
+      ],
+      "relevancia": {
+        "Oncoexo": "MUITO ALTO",
+        "LE Logística": "ALTO"
+      }
+    },
+    {
+      "id": "2026-anvisa-re4622-fiscalizacao",
+      "titulo": "Anvisa proíbe produtos sem registro e determina recolhimento de soluções",
+      "resumo": "A RE Anvisa 4.622/2026 proíbe produtos sem registro, apreende Durateston falsificado e alcança lotes de soluções de cloreto de sódio por irregularidades.",
+      "publicacao": "2026-11-26",
+      "vigencia": "2026-11-26",
+      "uf": [
+        "Federal"
+      ],
+      "tema": [
+        "Medicamentos",
+        "Anvisa",
+        "Recolhimento",
+        "Falsificação",
+        "Rastreabilidade"
+      ],
+      "impacto": [
+        "Oncoexo",
+        "Geral"
+      ],
+      "tipo": "Norma publicada — medida de fiscalização sanitária",
+      "norma": "Resolução-RE Anvisa nº 4.622/2026",
+      "antes": "Os produtos e lotes ainda não estavam abrangidos pelas medidas federais específicas divulgadas nessa resolução.",
+      "depois": "TZ Gold, Retatrutide e GHK-CU ficam proibidos; o lote 999511 de Durateston é apreendido; soluções da Sandom desde 01/11/2025 e o lote 6060169 da Isofarma são objeto de recolhimento/medidas divulgadas.",
+      "providencias": "Bloquear produtos e lotes, consultar estoque e trânsito, segregar unidades e interromper venda/distribuição. Para Med Fest, a aplicabilidade depende de confirmação da operação/estabelecimento.",
+      "fontes": [
+        {
+          "titulo": "Anvisa — proibições, falsificação e recolhimentos",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-determina-apreensao-de-tirzepatida-retatrutida-e-ghk-ku-sem-registro"
+        }
+      ],
+      "observacoes": "A classificação para LE Logística é condicionada à custódia ou transporte. Não há alteração automática de ICMS-ST.",
+      "radares": [
+        "Reforma Tributária"
+      ],
+      "relevancia": {
+        "Oncoexo": "ALTO",
+        "LE Logística": "ALTO"
+      }
+    },
+    {
       "id": "2026-convenio-icms-132-condicionantes-medicamentos-2027",
       "titulo": "Convênio 132/2026 define condicionantes de ICMS para medicamentos a partir de 2027",
       "resumo": "Convênio ICMS 132/2026, publicado em 18/11 e ratificado em 24/11/2026, disciplina o cumprimento das condicionantes de PIS/Cofins e IPI em 31/12/2026 para a fruição de benefícios ICMS a partir de 2027. O Anexo Único inclui os Convênios 162/1994 (oncologia), 10/2002 (AIDS), 58/2020 (oncologia) e 131/2021 (radiofármacos).",
